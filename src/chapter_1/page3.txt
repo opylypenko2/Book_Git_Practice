@@ -1,0 +1,9 @@
+• Create a local repository
+The hidden .git folder would be made to keep track of changes
+• Create a file / Update file
+Make a file with some information
+Or Update an existing file
+• Commit the changes
+Commit to the local repository with a proper commit message
+• Link / Push to remote repository
+Connect to a GitHub repository and push the changes

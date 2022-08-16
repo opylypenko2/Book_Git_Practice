@@ -2,3 +2,5 @@ Cydeo
 Java
 Github
 Canvas
+
+I edited page 2 after committing it.
