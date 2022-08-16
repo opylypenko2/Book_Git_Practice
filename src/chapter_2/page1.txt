@@ -3,5 +3,7 @@ Object
 • An object can store data
 • The data stored in an object are
 called fields
+
+edited
 • Multiple objects can be created
 from a class

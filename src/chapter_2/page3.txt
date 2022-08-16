@@ -1,0 +1,5 @@
+Instance Methods
+• Does not have static keyword
+• Belongs to the object
+• Each Object has a separate copy of the
+instance methods
