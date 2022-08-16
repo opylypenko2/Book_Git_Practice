@@ -1,0 +1,7 @@
+Instance Variables
+• Declared inside the class and outside any
+methods/blocks
+• Belongs to the object, and each object has
+its own memory
+• Each Object has a separate copy of the
+instance variable

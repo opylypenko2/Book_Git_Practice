@@ -1,0 +1,7 @@
+Object
+• Instance of a class
+• An object can store data
+• The data stored in an object are
+called fields
+• Multiple objects can be created
+from a class
